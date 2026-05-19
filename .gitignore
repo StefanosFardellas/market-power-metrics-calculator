@@ -15,3 +15,5 @@ __pycache__/
 # Logs and databases
 *.log
 *.sqlite3
+
+.github.copilot-instructions.md

@@ -178,9 +178,9 @@ See `requirements.txt` for a complete list of dependencies and versions.
 
 ## Contact & Credits
 
-**Author:** Stefanos [Your Last Name]  
-**Affiliation:** PhD Candidate, University of Patras, Greece  
-**Research Focus:** Energy Economics, Industrial Organization (IO), Competition Economics
+**Author:** Stefanos Fardellas  
+**Affiliation:** PhD Candidate, Department of Economics, University of Patras, Greece  
+**Research Focus:** Energy Economics, Industrial Organization (IO)
 
 **Research Interests:**
 - Market structure and competition in energy markets
@@ -189,9 +189,9 @@ See `requirements.txt` for a complete list of dependencies and versions.
 - Quantitative methods in applied microeconomics
 
 For inquiries, collaboration opportunities, or feedback regarding this project, please contact:
-- **Email:** [your.email@upatras.gr](mailto:your.email@upatras.gr)
-- **GitHub:** [@yourgithubusername](https://github.com/yourgithubusername)
-- **University Profile:** [Link to your profile]
+- **Email:** [sfardellas@ac.upatras.gr](mailto:sfardellas@ac.upatras.gr)
+- **GitHub:** [@StefanosFardellas](https://github.com/StefanosFardellas)
+- **University Profile:** [https://www.econ.upatras.gr/en/person/fardellas-stefanos/]
 
 ---
 
